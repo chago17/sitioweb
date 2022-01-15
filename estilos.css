@@ -1,0 +1,72 @@
+.navbar {
+    padding: 30px;
+}
+
+.container {
+    padding: 50px;
+}
+
+p {
+    width: 1100px;
+    margin: auto;
+    margin-right: auto;
+    width: 200;
+    right: 200;
+    padding: 30px;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+   }
+
+.caja {
+    padding: 50;
+
+}
+
+.h4 {
+    background-color: rgb(85, 96, 248);
+    margin: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
+
+
+form {
+    background-color: rgb(255, 255, 255);
+    padding: auto;
+    width: 500px;
+    margin: auto;
+    margin-right: auto;
+    border:2px;
+    border-color:rgb(139, 139, 139);
+    border-style:solid;
+    text-align: center;
+}
+
+
+.t {
+    width: 1100px;
+    margin: auto;
+    margin-right: auto;
+    width: 200;
+    right: 200;
+    padding: 30px;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+   }
+
+.h3 {
+    margin:auto;
+    text-align:left;
+    width:50%;
+}
+
+
+
+
+
+
+
+
